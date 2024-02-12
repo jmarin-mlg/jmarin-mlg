@@ -33,6 +33,8 @@ maravilloso mundo de la programación:
 - [Recursos útiles `42 Network`](https://github.com/jmarin-mlg/resources_42_malaga)
 - [Libft programado en C `42 Network`](https://github.com/jmarin-mlg/libft)
 - [Libft programado en Go](https://github.com/jmarin-mlg/libft_go)
+- [Ft_printf programado en C `42 Network`](https://github.com/jmarin-mlg/ft_printf)
+- [Get Next Line programado en C `42 Network`](https://github.com/jmarin-mlg/get_next_line)
 - [Libft, Printf y Get Next Line programado en C `42 Network`](https://github.com/jmarin-mlg/libft_printf_gnl)
 
 ## Contacto
